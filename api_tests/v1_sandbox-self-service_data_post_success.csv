@@ -1,0 +1,11 @@
+x-hsbc-client-id,x-hsbc-client-secret,x-hsbc-profile-id,product-category,category-version,api-name,api-version,table-name,product-name,statusCode
+client1,secret1,profile1,finance,1.0,accounts-api,2.1,users-table,premium-account,200
+client2,secret2,profile2,investment,1.2,transactions-api,3.0,orders-table,stock-portfolio,200
+client3,secret3,profile3,insurance,1.5,claims-api,1.3,policies-table,life-policy,200
+client4,secret4,profile4,loans,2.0,loans-api,2.2,applications-table,car-loan,200
+client5,secret5,profile5,banking,1.1,atm-api,1.4,branches-table,savings-account,200
+client6,secret6,profile6,savings,1.3,deposit-api,2.0,accounts-table,fixed-deposit,200
+client7,secret7,profile7,mortgage,2.1,mortgage-api,3.1,properties-table,home-loan,200
+client8,secret8,profile8,cards,1.0,cards-api,2.3,customers-table,credit-card,200
+client9,secret9,profile9,wealth,1.4,investment-api,1.2,portfolios-table,mutual-fund,200
+client10,secret10,profile10,retirement,1.6,pension-api,2.4,benefits-table,retirement-plan,200

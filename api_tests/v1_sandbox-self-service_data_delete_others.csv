@@ -1,0 +1,11 @@
+x-hsbc-client-id,x-hsbc-client-secret,x-hsbc-profile-id,product-category,category-version,api-name,api-version,table-name,product-name,statusCode
+client123,secretABC,profile001,finance,1.0,banking-api,2.0,accounts_table,premium_account,200
+client456,secretDEF,profile002,investment,1.5,investment-api,3.1,investment_table,gold_investment,400
+client789,secretGHI,profile003,loans,2.0,loans-api,4.0,loans_table,mortgage_loan,500
+client012,secretJKL,profile004,insurance,2.5,insurance-api,5.0,insurance_table,car_insurance,200
+client345,secretMNO,profile005,retirement,3.0,retirement-api,6.0,savings_table,retirement_savings,404
+client678,secretPQR,profile006,healthcare,INVALID_VERSION,health-api,INVALID_VERSION,patient_table,health_insurance,200
+client901,secretSTU,profile007,education,4.0,education-api,7.0,students_table,student_loan,503
+client234,secretVWX,profile008,travel,4.5,travel-api,8.0,reservations_table,luxury_travel,200
+client567,secretYZA,profile009,research,5.0,research-api,9.0,research_table,scientific_research,200
+client890,secretBCD,profile010,sports,NULL,sports-api,10.0,equipment_table,sports_kit,200

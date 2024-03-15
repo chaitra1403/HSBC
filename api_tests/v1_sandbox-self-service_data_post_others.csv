@@ -1,0 +1,11 @@
+x-hsbc-client-id,x-hsbc-client-secret,x-hsbc-profile-id,product-category,category-version,api-name,api-version,table-name,product-name,statusCode
+client123,secretABC,profile456,finance,1.0,accounts-api,v2,accounts_table,Personal Checking,200
+client789,secretXYZ,profile101,insurance,banana,claims-api,v3,claims_table,Home Insurance,404
+client234,secretDEF,profile202,investment,2.0,portfolio-api,v1,portfolio_table,Mutual Funds,500
+client345,secretGHI,profile303,loans,3.5,loans-api,v2.1,loans_table,Car Loan,200
+client456,secretJKL,profile404,credit-cards,4.0,cards-api,v2.2,cards_table,Platinum Card,200
+client567,secretMNO,profile505,INVALID,5.0,payments-api,v3,payments_table,Online Payment,400
+client678,secretPQR,profile606,finance,6.0,transactions-api,v1.0,transactions_table,Savings Account,503
+client789,secretSTU,profile707,insurance,7.0,insurance-api,v4,insurance_table,Travel Insurance,200
+client890,secretVWX,profile808,investment,8.0,investment-api,v5,investment_table,Stocks Portfolio,200
+client901,secretYZA,profile909,loans,9.0,loans-api,v2.3,loans_table,Student Loan,200
