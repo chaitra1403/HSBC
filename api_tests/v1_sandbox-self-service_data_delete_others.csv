@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+12345,abcde12345fgh,1-2345,electronics,1.0,productList,2.0,products,Smartphone
+67890,67890xyzabc,2-6789,clothing,1.b,textSearch,3.1,inventory,Jeans
+13579,qwerty09876,3-1357,home,one.point.two,getItem,1.0,items_table,Lamp
+24680,asdfg24680hij,4-2468,invalid-category,2.0,updateProduct,v2,product_updates,Television
+86420,zxcvbn86420mln,5-8642,books,3.1,deleteItem,5.0,books_catalogue,Novel
+97531,plmoknijb7531,6-9753,toys,2.3,addReview,1.2,reviews,Toy Train
+48271,uhbvcxz48271,7-4827,sports,3,fetchOrders,2.5,orders,Soccer Ball
+59318,okmijn59318,8-5931,automotive,3.0,createCart,1.3,carts,Car Battery
+60429,rfvujm60429,9-6042,gardening,2.2,checkout,v1.5,checkout_table,Garden Hose
+71540,edcrfv71540,10-7154,food,4.0,searchRecipe,1.0,recipes,Pasta

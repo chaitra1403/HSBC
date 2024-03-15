@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+abc123,secretXYZ,1001,Electronics,1.0,ProductList,2.0,products_table,Smartphone
+def456,secretABC,1002,Clothing,abc,UserAPI,3.1,users_table,Dress
+ghi789,secretDEF,1003,Toys,2.0,OrderAPI,4.2,orders_table,Doll
+jkl012,secretGHI,1004,invalid_category,1.5,PaymentAPI,5.0,payments_table,invalid_product
+mno345,secretJKL,1005,Books,3.0,AuthAPI,1.0,auth_table,E-book Reader
+pqr678,secretMNO,1006,Appliances,/2.5,ShippingAPI,2.3,shipping_table,Washing Machine
+stu901,secretPQR,1007,Groceries,2.0,InventoryAPI,3.0,inventory_table,Organic Apples
+vwx234,secretSTU,1008,invalid_category,1.0,ProfileAPI,2.7,profile_table,invalid_product
+yz1234,secretVWX,1009,Sports,3.0,ReviewAPI,1.5,reviews_table,Tennis Racket
+abc987,secretYZ1,1010,Furniture,2.0,CatalogAPI,4.0,catalog_table,Couch
