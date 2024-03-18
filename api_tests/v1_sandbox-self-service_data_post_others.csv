@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,table-name,product-name
+1234,secret1,001,table1,product1
+2345,secret2,002,table2,product2
+3456,secret3,003,table3,product3
+4567,secret4,004,table4,product4
+5678,secret5,005,table5,product5
+6789,secret6,006,table6,product6
+7890,secret7,007,table7,product7
+8901,secret8,008,table8,product8
+9012,secret9,009,table9,product9
+0123,secret10,010,table10,product10

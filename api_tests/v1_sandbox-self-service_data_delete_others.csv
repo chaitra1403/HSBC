@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+12345,abcde,67890,Electronics,1.0,getData,2.0,users,TV
+23456,fghij,78901,HomeAppliances,1.1,postData,1.0,products,Refrigerator
+34567,klmno,89012,Clothing,1.2,deleteData,2.1,orders,T-Shirt
+45678,pqrst,90123,Books,1.3,putData,1.1,cart,Novel
+56789,uvwxy,01234,Grocery,1.4,patchData,2.2,inventory,Apple
+67890,zabcd,12345,Beauty,1.5,getInfo,1.2,users,Lipstick
+78901,efghi,23456,Kitchen,1.6,postInfo,2.3,products,Frying Pan
+89012,jklmn,34567,Toys,1.7,deleteInfo,1.3,orders,Soft Toy
+90123,opqrs,45678,Furniture,1.8,putInfo,2.4,cart,Sofa
+01234,tuvwx,56789,Stationary,1.9,patchInfo,1.4,inventory,Pencil
