@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+1234,abcd,5678,Electronics,1.0,GetProductDetails,2.0,ProductTable,iPhone
+2345,bcde,6789,Clothing,1.1,GetProductDetails,2.1,ProductTable,T-Shirt
+3456,cdef,7890,Books,1.2,GetProductDetails,2.2,ProductTable,Harry Potter
+4567,defg,8901,Furniture,1.3,GetProductDetails,2.3,ProductTable,Sofa
+5678,efgh,9012,Grocery,1.4,GetProductDetails,2.4,ProductTable,Bread
+6789,fghi,0123,Toys,1.5,GetProductDetails,2.5,ProductTable,Lego
+7890,ghij,1234,Beauty,1.6,GetProductDetails,2.6,ProductTable,Lipstick
+8901,hijk,2345,Sports,1.7,GetProductDetails,2.7,ProductTable,Basketball
+9012,ijkl,3456,Music,1.8,GetProductDetails,2.8,ProductTable,Guitar
+0123,jklm,4567,Garden,1.9,GetProductDetails,2.9,ProductTable,Flower Pot

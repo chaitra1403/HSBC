@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+12345,abcde12345,1,Electronics,1.0,GetProducts,1.0,Products,Television
+12346,fghij67890,2,Clothing,2.0,GetProducts,1.1,Products,Shirt
+12347,klmno09876,3,Furniture,1.2,GetProducts,1.2,Products,Sofa
+12348,pqrst54321,4,Books,2.1,GetProducts,1.3,Products,Novel
+12349,uvwxyz98765,5,Cosmetics,1.3,GetProducts,1.4,Products,Lipstick
+12350,lmnop54321,6,Footwear,2.2,GetProducts,1.5,Products,Boots
+12351,qwerty12345,7,Grocery,1.4,GetProducts,1.6,Products,Bread
+12352,zxcvb67890,8,Stationery,2.3,GetProducts,1.7,Products,Pen
+12353,asdfg09876,9,Sports,1.5,GetProducts,1.8,Products,Ball
+12354,hjklp54321,10,Kitchenware,2.4,GetProducts,1.9,Products,Cookware
