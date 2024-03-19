@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+XJH123,YUI897,PRO001,electronics,1.0,product-info,v1,transaction,iphone-v1
+AKL456,BNM675,PRO002,clothing,1.2,product-details,v2,order,shirt-v2
+ZXC789,POI234,PRO003,books,1.5,book-info,v3,payment,book-v3
+QWE321,JKL098,PRO004,grocery,1.1,grocery-details,v4,customer,vegetable-v4
+IUY654,MNB987,PRO005,beauty,1.0,beauty-product-info,v1,refund,lipstick-v1
+HJK237,VBN456,PRO006,automotive,2.0,vehicle-info,v2,shipping,car-v2
+BGT345,NMK123,PRO007,home,1.2,home-product-details,v3,returns,table-v3
+XSW678,OLP432,PRO008,jewelry,1.0,jewelry-info,v1,inventory,ring-v1
+CDE890,PLM907,PRO009,sporting,1.4,sports-product-details,v2,purchase,ball-v2
+RFT567,LOI654,PRO010,industrial,1.3,industrial-product-info,v3,review,machine-v3
