@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,table-name,product-name
+AB123CD,XYZ789,PROF001,users,ProductA
+EF456GH,IJK012,PROF002,orders,ProductB
+IJ789KL,MNO345,PROF003,customers,ProductC
+MN012OP,QRS678,PROF004,inventory,ProductD
+QR345ST,UVW901,PROF005,sales,ProductE
+UV678WX,YZA234,PROF006,purchases,ProductF
+YZ901AB,BCD567,PROF007,shipping,ProductG
+BC234DE,EFG890,PROF008,returns,ProductH
+EF567FG,HIJ123,PROF009,revenue,ProductI
+HI890IJ,KLM456,PROF010,expenses,ProductJ

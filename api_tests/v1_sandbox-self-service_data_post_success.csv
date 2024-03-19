@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+XJH123,YUI897,PRF678,treasury,1.0,account-information,v2,transaction,account-information-v2
+DJK567,MNB234,PRF123,banking,2.0,transaction-details,v3,savings,transaction-details-v3
+FGH234,KJH897,PRF345,loans,1.5,loan-details,v1,loan,loan-details-v1
+BCV345,NMB567,PRF234,insurance,3.0,policy-details,v4,policy,policy-details-v4
+QWE567,POI234,PRF456,mortgage,2.5,mortgage-details,v2,mortgage,mortgage-details-v2
+JKL234,ZXC567,PRF567,investment,1.0,investment-details,v1,investment,investment-details-v1
+MNB345,ASD234,PRF678,cards,4.0,card-details,v3,card,card-details-v3
+HJK567,QWE897,PRF789,retail,2.0,retail-details,v2,retail,retail-details-v2
+UOI123,KJH789,PRF890,corporate,3.5,corporate-details,v4,corporate,corporate-details-v4
+POI345,ZXC123,PRF901,wealth,1.0,wealth-details,v1,wealth,wealth-details-v1
