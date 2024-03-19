@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,table-name,product-name
+12345,secret123,profile678,tableA,productX
+67890,/secret234/,profile123,tableB,productY
+abcde,secret345,profile890,tableC,productZ
+fghij,secret456,profileabc,tableD,'productA'
+klmno,secret567,profiledef,tableE,productB
+pqrst,secret678,profileghi,tableF,productC
+uvwxy,secret789,profilejkl,tableG,productD
+zyxwv,secret890,profilemno,tableH,productE
+tsrqp,secret901,profilepqr,tableI,productF
+onmlk,secret012,profilestu,tableJ,productG

@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+123ABC,XYZ789,P1,electronics,1.0,product-info,v1,product_table,TV
+456DEF,GHI321,P2,clothing,2.0,inventory-check,v2,inventory_table,Shirt
+789GHI,JKL123,P3,books,1.5,order-status,v3,order_table,Novel
+ABC123,DEF456,P4,grocery,3.0,cart-update,v4,cart_table,Apple
+DEF456,GHI789,P5,home-decor,2.5,wishlist-add,v5,wishlist_table,Lamp
+GHI789,JKL012,P6,beauty,1.0,product-review,v6,review_table,Lipstick
+JKL012,ABC345,P7,sports,2.0,checkout,v1,checkout_table,Basketball
+MNO345,DEF678,P8,automobile,1.5,shipping-update,v2,shipping_table,Car-Accessory
+PQR678,GHI901,P9,garden,3.0,refund-status,v3,refund_table,Plant
+STU901,JKL234,P10,toys,2.5,order-cancellation,v4,cancellation_table,Toy-Car
