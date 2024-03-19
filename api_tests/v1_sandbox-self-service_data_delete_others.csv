@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+123ABC,XYZ789,PID001,treasury,1.0,account-information,v2,transaction,account-information-v2
+456DEF,GHI123,PID002,insurance,1.5,policy-details,v1,policy,insurance-policy-v1
+789GHI,ABC456,PID003,loans,2.0,loan-details,v3,loan,loan-details-v3
+321CBA,987ZYX,PID004,credit-card,1.0,card-information,v1,card,credit-card-information-v1
+654FED,321IHG,PID005,banking,2.5,account-details,v2,account,banking-account-details-v2
+987IHG,654FED,PID006,investment,3.0,portfolio-details,v1,portfolio,investment-portfolio-details-v1
+231BAC,879YXZ,PID007,mortgage,1.0,mortgage-details,v1,mortgage,mortgage-details-v1
+564EFD,123HGI,PID008,savings,2.0,savings-account-details,v2,savings,savings-account-details-v2
+789IHG,456EDF,PID009,retirement,3.0,retirement-plan-details,v1,retirement,retirement-plan-details-v1
+132ACB,978XYZ,PID010,checking,1.0,checking-account-details,v1,checking,checking-account-details-v1

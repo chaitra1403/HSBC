@@ -1,0 +1,11 @@
+client-id,client-secret,profile-id,product-category,category-version,api-name,api-version,table-name,product-name
+12345,abcde,67890,treasury,1.0,account-information,v2,transaction,account-information-v2
+23456,bcdef,78901,investment,1.1,transaction-history,v3,account,transaction-history-v3
+34567,cdefg,89012,loan,1.2,loan-details,v2,transaction,loan-details-v2
+45678,defgh,90123,credit-card,1.3,card-details,v1,account,card-details-v1
+56789,efghi,01234,mortgage,1.4,mortgage-details,v3,transaction,mortgage-details-v3
+67890,fghij,12345,savings,1.5,savings-summary,v2,account,savings-summary-v2
+78901,ghijk,23456,current-account,1.6,account-summary,v1,transaction,account-summary-v1
+89012,hijkl,34567,personal-loan,1.7,loan-summary,v3,account,loan-summary-v3
+90123,ijklm,45678,debit-card,1.8,card-summary,v2,transaction,card-summary-v2
+01234,jklmn,56789,checking-account,1.9,account-overview,v1,account,account-overview-v1
